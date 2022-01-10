@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "61db9bc2b09be072956ae684"
+  },
+  "product_id": "61db64d731dec743727907f3",
+  "transaction_type": "DEPOSIT",
+  "transaction_amount": 250,
+  "update_at": {
+    "$date": "2022-01-10T03:02:38.635Z"
+  },
+  "status": "REMOVE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+},{
+  "_id": {
+    "$oid": "61dbac93dd879d32b0201c29"
+  },
+  "product_id": "61db64ee31dec743727907f4",
+  "transaction_type": "CHARGE",
+  "transaction_amount": 50,
+  "update_at": {
+    "$date": "2022-01-10T05:25:10.293Z"
+  },
+  "status": "REMOVE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+},{
+  "_id": {
+    "$oid": "61dbaddddd879d32b0201c2a"
+  },
+  "product_id": "61db64ee31dec743727907f4",
+  "transaction_type": "CHARGE",
+  "transaction_amount": 250,
+  "created_at": {
+    "$date": "2022-01-10T03:54:05.735Z"
+  },
+  "update_at": {
+    "$date": "2022-01-10T03:54:05.735Z"
+  },
+  "status": "COMPLETE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+},{
+  "_id": {
+    "$oid": "61dbb03bdd879d32b0201c2b"
+  },
+  "product_id": "61db64ee31dec743727907f4",
+  "transaction_type": "CHARGE",
+  "transaction_amount": 250,
+  "created_at": {
+    "$date": "2022-01-10T04:04:11.539Z"
+  },
+  "update_at": {
+    "$date": "2022-01-10T04:04:11.539Z"
+  },
+  "status": "COMPLETE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+}]

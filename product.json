@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "61db64d731dec743727907f3"
+  },
+  "account_type": "SAVING",
+  "account_number": "d85c241a-2eb7-40da-938c-097f30d3756f",
+  "created_at": {
+    "$date": "2022-01-09T22:42:30.443Z"
+  },
+  "created_by": "pedro",
+  "update_at": {
+    "$date": "2022-01-10T03:32:25.668Z"
+  },
+  "currency": "PEN",
+  "amount": 6300,
+  "maintenance_commission": 0,
+  "max_transact_number": 1,
+  "credit_limit": 0,
+  "customer": "61db5ffd7610bd27a53b2b8b",
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.productms.model.Product"
+},{
+  "_id": {
+    "$oid": "61db64ee31dec743727907f4"
+  },
+  "account_type": "CREDIT",
+  "account_number": "2e68f426-8b9a-4f48-9e10-54378174d1f5",
+  "created_at": {
+    "$date": "2022-01-09T22:42:53.166Z"
+  },
+  "created_by": "pedro",
+  "update_at": {
+    "$date": "2022-01-10T05:25:25.547Z"
+  },
+  "currency": "PEN",
+  "amount": 3580,
+  "maintenance_commission": 0,
+  "max_transact_number": -1,
+  "transact_number_day": {
+    "$date": "2022-01-10T05:25:25.547Z"
+  },
+  "credit_limit": 80000,
+  "customer": "61db5ffd7610bd27a53b2b8b",
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.productms.model.Product"
+},{
+  "_id": {
+    "$oid": "61db650e31dec743727907f5"
+  },
+  "account_type": "CREDIT",
+  "account_number": "24d36718-9832-4490-ac8c-de6e1353027a",
+  "created_at": {
+    "$date": "2022-01-09T22:43:26.385Z"
+  },
+  "created_by": "pedro",
+  "update_at": {
+    "$date": "2022-01-09T22:43:26.385Z"
+  },
+  "currency": "PEN",
+  "amount": 0,
+  "maintenance_commission": 0,
+  "max_transact_number": -1,
+  "transact_number_day": {
+    "$date": "2022-01-09T22:43:26.385Z"
+  },
+  "credit_limit": 80000,
+  "customer": "61db602b7610bd27a53b2b8c",
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.productms.model.Product"
+},{
+  "_id": {
+    "$oid": "61db652231dec743727907f6"
+  },
+  "account_type": "CREDIT",
+  "account_number": "7fa02d73-e5f0-4b14-91f5-a7cedabc7b77",
+  "created_at": {
+    "$date": "2022-01-09T22:43:45.944Z"
+  },
+  "created_by": "pedro",
+  "update_at": {
+    "$date": "2022-01-09T22:43:45.944Z"
+  },
+  "currency": "PEN",
+  "amount": 0,
+  "maintenance_commission": 0,
+  "max_transact_number": -1,
+  "transact_number_day": {
+    "$date": "2022-01-09T22:43:45.944Z"
+  },
+  "credit_limit": 1500,
+  "customer": "61db602b7610bd27a53b2b8c",
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.productms.model.Product"
+},{
+  "_id": {
+    "$oid": "61db655031dec743727907f7"
+  },
+  "account_type": "CURRENT",
+  "account_number": "57f67447-f692-4717-8169-06bfb6129ce2",
+  "created_at": {
+    "$date": "2022-01-09T22:44:31.673Z"
+  },
+  "created_by": "pedro",
+  "update_at": {
+    "$date": "2022-01-09T22:44:31.673Z"
+  },
+  "currency": "PEN",
+  "amount": 8000,
+  "maintenance_commission": 100,
+  "maintenance_commission_day": {
+    "$date": "2022-01-30T22:44:31.673Z"
+  },
+  "max_transact_number": -1,
+  "credit_limit": 0,
+  "customer": "61db602b7610bd27a53b2b8c",
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.productms.model.Product"
+},{
+  "_id": {
+    "$oid": "61db6ab35c925f53f22964a8"
+  },
+  "account_type": "CURRENT",
+  "account_number": "57f67447-f692-4717-8169-06bfb6129ce2",
+  "created_at": {
+    "$date": "2022-01-09T22:44:31.673Z"
+  },
+  "created_by": "pedro",
+  "update_at": {
+    "$date": "2022-01-09T22:44:31.673Z"
+  },
+  "currency": "PEN",
+  "amount": 8000,
+  "maintenance_commission": 100,
+  "maintenance_commission_day": {
+    "$date": "2022-01-30T22:44:31.673Z"
+  },
+  "max_transact_number": -1,
+  "credit_limit": 0,
+  "customer": "61db6a3e7610bd27a53b2b8d",
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.productms.model.Product"
+},{
+  "_id": {
+    "$oid": "61db85404cb62f466b55eed4"
+  },
+  "account_type": "CURRENT",
+  "account_number": "57f67447-f692-4717-8169-06bfb6129ce2",
+  "created_at": {
+    "$date": "2022-01-09T22:44:31.673Z"
+  },
+  "created_by": "pedro",
+  "update_at": {
+    "$date": "2022-01-09T22:44:31.673Z"
+  },
+  "currency": "PEN",
+  "amount": 8000,
+  "maintenance_commission": 100,
+  "maintenance_commission_day": {
+    "$date": "2022-01-30T22:44:31.673Z"
+  },
+  "max_transact_number": -1,
+  "credit_limit": 0,
+  "customer": "61db73067610bd27a53b2b8e",
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.productms.model.Product"
+}]

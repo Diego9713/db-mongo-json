@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "61db5ffd7610bd27a53b2b8b"
+  },
+  "document_type": "dni",
+  "document_number": "71528107",
+  "customer_type": "PERSONAL",
+  "first_name": "Diego",
+  "last_name": "Tafur",
+  "address": "limatambo norte",
+  "references": "videna",
+  "phone_number": "9492507508",
+  "civil_status": "soltero",
+  "email": "tafur232@gmail.com",
+  "is_owner": true,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.customerms.model.Customer"
+},{
+  "_id": {
+    "$oid": "61db602b7610bd27a53b2b8c"
+  },
+  "document_type": "dni",
+  "document_number": "71528108",
+  "customer_type": "BUSINESS",
+  "first_name": "Juan",
+  "last_name": "Leon",
+  "address": "limatambo norte",
+  "references": "videna",
+  "phone_number": "949250750",
+  "civil_status": "soltero",
+  "email": "tafur232@gmail.com",
+  "is_owner": true,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.customerms.model.Customer"
+},{
+  "_id": {
+    "$oid": "61db6a3e7610bd27a53b2b8d"
+  },
+  "document_type": "dni",
+  "document_number": "123456789",
+  "customer_type": "BUSINESS",
+  "first_name": "Mario",
+  "last_name": "Leon",
+  "address": "limatambo norte",
+  "references": "videna",
+  "phone_number": "949250750",
+  "civil_status": "soltero",
+  "email": "tafur232@gmail.com",
+  "is_owner": true,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.customerms.model.Customer"
+},{
+  "_id": {
+    "$oid": "61db73067610bd27a53b2b8e"
+  },
+  "document_type": "dni",
+  "document_number": "1234567890",
+  "customer_type": "BUSINESS",
+  "first_name": "Piter",
+  "last_name": "Leon",
+  "address": "limatambo norte",
+  "references": "videna",
+  "phone_number": "949250750",
+  "civil_status": "soltero",
+  "email": "tafur232@gmail.com",
+  "is_owner": true,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.customerms.model.Customer"
+}]
