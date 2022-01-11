@@ -17,7 +17,7 @@
   "max_transact_number": 1,
   "credit_limit": 0,
   "customer": "61db5ffd7610bd27a53b2b8b",
-  "status": "ACTIVE",
+  "status": "INACTIVE",
   "_class": "bootcamp.com.productms.model.Product"
 },{
   "_id": {
@@ -41,7 +41,7 @@
   },
   "credit_limit": 80000,
   "customer": "61db5ffd7610bd27a53b2b8b",
-  "status": "ACTIVE",
+  "status": "INACTIVE",
   "_class": "bootcamp.com.productms.model.Product"
 },{
   "_id": {
