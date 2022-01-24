@@ -1,15 +1,15 @@
 [{
   "_id": {
-    "$oid": "61db5ffd7610bd27a53b2b8b"
+    "$oid": "61edff6e97c3514dbee5f8b4"
   },
   "document_type": "dni",
-  "document_number": "71528107",
+  "document_number": "725896354",
   "customer_type": "PERSONAL",
   "first_name": "Diego",
   "last_name": "Tafur",
   "address": "limatambo norte",
   "references": "videna",
-  "phone_number": "9492507508",
+  "phone_number": "949250750",
   "civil_status": "soltero",
   "email": "tafur232@gmail.com",
   "is_owner": true,
@@ -17,16 +17,16 @@
   "_class": "bootcamp.com.customerms.model.Customer"
 },{
   "_id": {
-    "$oid": "61db602b7610bd27a53b2b8c"
+    "$oid": "61edff9c97c3514dbee5f8b5"
   },
   "document_type": "dni",
-  "document_number": "71528108",
-  "customer_type": "BUSINESS",
+  "document_number": "856932541",
+  "customer_type": "PERSONAL",
   "first_name": "Juan",
   "last_name": "Leon",
   "address": "limatambo norte",
-  "references": "videna",
-  "phone_number": "949250750",
+  "references": "leticia",
+  "phone_number": "856256225",
   "civil_status": "soltero",
   "email": "tafur232@gmail.com",
   "is_owner": true,
@@ -34,16 +34,16 @@
   "_class": "bootcamp.com.customerms.model.Customer"
 },{
   "_id": {
-    "$oid": "61db6a3e7610bd27a53b2b8d"
+    "$oid": "61edffb497c3514dbee5f8b6"
   },
   "document_type": "dni",
-  "document_number": "123456789",
+  "document_number": "754869325",
   "customer_type": "BUSINESS",
-  "first_name": "Mario",
-  "last_name": "Leon",
+  "first_name": "Pedro",
+  "last_name": "Martinez",
   "address": "limatambo norte",
   "references": "videna",
-  "phone_number": "949250750",
+  "phone_number": "856256225",
   "civil_status": "soltero",
   "email": "tafur232@gmail.com",
   "is_owner": true,
@@ -51,16 +51,84 @@
   "_class": "bootcamp.com.customerms.model.Customer"
 },{
   "_id": {
-    "$oid": "61db73067610bd27a53b2b8e"
+    "$oid": "61edffd097c3514dbee5f8b7"
   },
   "document_type": "dni",
-  "document_number": "1234567890",
+  "document_number": "96584236",
   "customer_type": "BUSINESS",
-  "first_name": "Piter",
-  "last_name": "Leon",
+  "first_name": "Maria",
+  "last_name": "Maturana",
   "address": "limatambo norte",
   "references": "videna",
-  "phone_number": "949250750",
+  "phone_number": "856256225",
+  "civil_status": "soltero",
+  "email": "tafur232@gmail.com",
+  "is_owner": true,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.customerms.model.Customer"
+},{
+  "_id": {
+    "$oid": "61edffe497c3514dbee5f8b8"
+  },
+  "document_type": "dni",
+  "document_number": "75236548",
+  "customer_type": "PERSONAL_VIP",
+  "first_name": "Jorge",
+  "last_name": "Rodriguez",
+  "address": "limatambo norte",
+  "references": "videna",
+  "phone_number": "856256225",
+  "civil_status": "soltero",
+  "email": "tafur232@gmail.com",
+  "is_owner": true,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.customerms.model.Customer"
+},{
+  "_id": {
+    "$oid": "61ee000297c3514dbee5f8b9"
+  },
+  "document_type": "dni",
+  "document_number": "236589741",
+  "customer_type": "BUSINESS_PYME",
+  "first_name": "Diana",
+  "last_name": "Rodriguez",
+  "address": "limatambo norte",
+  "references": "videna",
+  "phone_number": "856256225",
+  "civil_status": "soltero",
+  "email": "tafur232@gmail.com",
+  "is_owner": true,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.customerms.model.Customer"
+},{
+  "_id": {
+    "$oid": "61ee040697c3514dbee5f8ba"
+  },
+  "document_type": "dni",
+  "document_number": "58746324",
+  "customer_type": "PERSONAL",
+  "first_name": "Juliana",
+  "last_name": "Montalvo",
+  "address": "limatambo norte",
+  "references": "videna",
+  "phone_number": "856256225",
+  "civil_status": "soltero",
+  "email": "tafur232@gmail.com",
+  "is_owner": true,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.customerms.model.Customer"
+},{
+  "_id": {
+    "$oid": "61ee06c297c3514dbee5f8bb"
+  },
+  "document_type": "dni",
+  "document_number": "5874632485",
+  "customer_type": "BUSINESS",
+  "first_name": "Ruth",
+  "last_name": "martinez",
+  "address": "limatambo norte",
+  "references": "videna",
+  "phone_number": "856256225",
   "civil_status": "soltero",
   "email": "tafur232@gmail.com",
   "is_owner": true,

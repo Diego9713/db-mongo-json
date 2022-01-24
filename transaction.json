@@ -1,54 +1,112 @@
 [{
   "_id": {
-    "$oid": "61db9bc2b09be072956ae684"
+    "$oid": "61eeb1863299ba07361210eb"
   },
-  "product_id": "61db64d731dec743727907f3",
-  "transaction_type": "DEPOSIT",
-  "transaction_amount": 250,
+  "product_id": "61ee025a426aab09782e10d3",
+  "from_product": "123456789",
+  "payment_method": "DIRECT",
+  "transaction_type": "WITHDRAWAL",
+  "transaction_amount": 500,
+  "commission": 0,
+  "created_at": "2022-01-24",
   "update_at": {
-    "$date": "2022-01-10T03:02:38.635Z"
-  },
-  "status": "REMOVE",
-  "_class": "bootcamp.com.transactionms.model.Transaction"
-},{
-  "_id": {
-    "$oid": "61dbac93dd879d32b0201c29"
-  },
-  "product_id": "61db64ee31dec743727907f4",
-  "transaction_type": "CHARGE",
-  "transaction_amount": 50,
-  "update_at": {
-    "$date": "2022-01-10T05:25:10.293Z"
-  },
-  "status": "REMOVE",
-  "_class": "bootcamp.com.transactionms.model.Transaction"
-},{
-  "_id": {
-    "$oid": "61dbaddddd879d32b0201c2a"
-  },
-  "product_id": "61db64ee31dec743727907f4",
-  "transaction_type": "CHARGE",
-  "transaction_amount": 250,
-  "created_at": {
-    "$date": "2022-01-10T03:54:05.735Z"
-  },
-  "update_at": {
-    "$date": "2022-01-10T03:54:05.735Z"
+    "$date": "2022-01-24T05:00:00Z"
   },
   "status": "COMPLETE",
   "_class": "bootcamp.com.transactionms.model.Transaction"
 },{
   "_id": {
-    "$oid": "61dbb03bdd879d32b0201c2b"
+    "$oid": "61eeb1af3299ba07361210ec"
   },
-  "product_id": "61db64ee31dec743727907f4",
-  "transaction_type": "CHARGE",
-  "transaction_amount": 250,
-  "created_at": {
-    "$date": "2022-01-10T04:04:11.539Z"
-  },
+  "product_id": "61ee025a426aab09782e10d3",
+  "from_product": "123456789",
+  "payment_method": "DIRECT",
+  "transaction_type": "DEPOSIT",
+  "transaction_amount": 500,
+  "commission": 0,
+  "created_at": "2022-01-24",
   "update_at": {
-    "$date": "2022-01-10T04:04:11.539Z"
+    "$date": "2022-01-24T05:00:00Z"
+  },
+  "status": "COMPLETE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+},{
+  "_id": {
+    "$oid": "61eeb2b43299ba07361210ed"
+  },
+  "product_id": "61ee04e0426aab09782e10de",
+  "from_product": "123456789",
+  "payment_method": "DIRECT",
+  "transaction_type": "WITHDRAWAL",
+  "transaction_amount": 5000,
+  "commission": 0,
+  "created_at": "2022-01-24",
+  "update_at": {
+    "$date": "2022-01-24T05:00:00Z"
+  },
+  "status": "COMPLETE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+},{
+  "_id": {
+    "$oid": "61eeb30b3299ba07361210ee"
+  },
+  "product_id": "61ee04b2426aab09782e10dc",
+  "from_product": "123456789",
+  "payment_method": "DIRECT",
+  "transaction_type": "CHARGE",
+  "transaction_amount": 15000,
+  "commission": 0,
+  "created_at": "2022-01-24",
+  "update_at": {
+    "$date": "2022-01-24T05:00:00Z"
+  },
+  "status": "COMPLETE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+},{
+  "_id": {
+    "$oid": "61eeb33c3299ba07361210ef"
+  },
+  "product_id": "61ee04b2426aab09782e10dc",
+  "from_product": "123456789",
+  "payment_method": "DIRECT",
+  "transaction_type": "CHARGE",
+  "transaction_amount": 15000,
+  "commission": 0,
+  "created_at": "2022-01-24",
+  "update_at": {
+    "$date": "2022-01-24T05:00:00Z"
+  },
+  "status": "REMOVE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+},{
+  "_id": {
+    "$oid": "61eeb42b3299ba07361210f0"
+  },
+  "product_id": "61ee025a426aab09782e10d3",
+  "from_product": "61ee025a426aab09782e10d3",
+  "payment_method": "TRANSFER",
+  "transaction_type": "TRANSFER",
+  "transaction_amount": 500,
+  "commission": 0,
+  "created_at": "2022-01-24",
+  "update_at": {
+    "$date": "2022-01-24T05:00:00Z"
+  },
+  "status": "COMPLETE",
+  "_class": "bootcamp.com.transactionms.model.Transaction"
+},{
+  "_id": {
+    "$oid": "61eeb5dc5a2195618070d80f"
+  },
+  "product_id": "61ee04b2426aab09782e10dc",
+  "from_product": "123456789",
+  "payment_method": "DIRECT",
+  "transaction_type": "CHARGE",
+  "transaction_amount": 5000,
+  "commission": 0,
+  "created_at": "2022-01-24",
+  "update_at": {
+    "$date": "2022-01-24T05:00:00Z"
   },
   "status": "COMPLETE",
   "_class": "bootcamp.com.transactionms.model.Transaction"
