@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "61f1b369af0cb800363bb885"
+  },
+  "document_type": "dni",
+  "document_number": "123456789",
+  "coin-purse_type": "COIN_PURSE_DNI",
+  "first_name": "Ruth",
+  "last_name": "martinez",
+  "phone_number": "8562562258",
+  "phone_imei": "845985445TMJS",
+  "email": "tafur232@gmail.com",
+  "amount": 1490,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.yankims.model.CoinPurse"
+},{
+  "_id": {
+    "$oid": "61f1b44aaf0cb800363bb886"
+  },
+  "document_type": "dni",
+  "document_number": "123478548123",
+  "coin-purse_type": "COIN_PURSE_CARD",
+  "first_name": "Pablo",
+  "last_name": "Escobar",
+  "phone_number": "856256225",
+  "phone_imei": "845985445TMJS",
+  "email": "tafur232@gmail.com",
+  "account_number": "45fca7df-9c56-46aa-a333-3a272df1be8b",
+  "amount": 18820,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.yankims.model.CoinPurse"
+},{
+  "_id": {
+    "$oid": "61f1b4dfaf0cb800363bb887"
+  },
+  "document_type": "dni",
+  "document_number": "123478548123",
+  "coin-purse_type": "COIN_PURSE_DNI",
+  "first_name": "Pablo",
+  "last_name": "Escobar",
+  "phone_number": "85625622512",
+  "phone_imei": "845985445TMJS1231",
+  "email": "tafur232@gmail.com",
+  "amount": 900,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.yankims.model.CoinPurse"
+},{
+  "_id": {
+    "$oid": "61f5a0854eb8f93a24b19d44"
+  },
+  "document_type": "dni",
+  "document_number": "8759962",
+  "coin-purse_type": "COIN_PURSE_DNI",
+  "first_name": "Pablo",
+  "last_name": "Escobar",
+  "phone_number": "856256225122",
+  "phone_imei": "845985445TMJS12315",
+  "email": "tafur232@gmail.com",
+  "amount": 0,
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.yankims.model.CoinPurse"
+}]

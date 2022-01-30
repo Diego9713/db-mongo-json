@@ -7,11 +7,11 @@
   "sub_account_number": "45fca7df-9c56-46aa-a333-3a272df1be8b",
   "level": 1,
   "currency": "PEN",
-  "amount": 19500,
+  "amount": 18820,
   "minimum_average_amount": 0,
-  "average_daily_balance": 19500,
+  "average_daily_balance": 18820,
   "average_daily_balance_day": {
-    "$date": "2022-01-24T05:00:00Z"
+    "$date": "2022-01-29T05:00:00Z"
   },
   "maintenance_commission": 0,
   "max_transact_number": 10,
@@ -21,7 +21,7 @@
     "$date": "2022-01-23T05:00:00Z"
   },
   "update_at": {
-    "$date": "2022-01-24T05:00:00Z"
+    "$date": "2022-01-29T05:00:00Z"
   },
   "status": "ACTIVE",
   "_class": "bootcamp.com.productms.model.Product"
@@ -553,6 +553,36 @@
   },
   "update_at": {
     "$date": "2022-01-23T05:00:00Z"
+  },
+  "status": "ACTIVE",
+  "_class": "bootcamp.com.productms.model.Product"
+},{
+  "_id": {
+    "$oid": "61f46291ba53535dfe086679"
+  },
+  "account_type": "CURRENT",
+  "account_number": "c58d51ec-7bfa-4d6b-bf2c-6d5bb3303e82",
+  "sub_account_number": "c58d51ec-7bfa-4d6b-bf2c-6d5bb3303e82 - 3",
+  "level": 3,
+  "currency": "PEN",
+  "amount": 5000,
+  "minimum_average_amount": 0,
+  "average_daily_balance": 5000,
+  "average_daily_balance_day": {
+    "$date": "2022-01-28T00:00:00Z"
+  },
+  "maintenance_commission": 100,
+  "maintenance_commission_day": {
+    "$date": "2022-01-30T21:39:29.113Z"
+  },
+  "max_transact_number": 10,
+  "credit_limit": 0,
+  "customer": "61ee000297c3514dbee5f8b9",
+  "created_at": {
+    "$date": "2022-01-28T00:00:00Z"
+  },
+  "update_at": {
+    "$date": "2022-01-28T00:00:00Z"
   },
   "status": "ACTIVE",
   "_class": "bootcamp.com.productms.model.Product"
